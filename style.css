@@ -1,0 +1,47 @@
+body {
+  color : blue ;
+  border: 10px solid blue;
+  margin: 70px;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#image1 {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+}
+h2 {
+    font-size : 40px;
+    box-shadow: 30px;
+    text-align : left;
+    color : blue;
+    border : 20px solid blue;
+  }
+p {
+  font-size : 25px;
+} 
+
+ul {
+  font-size : 20px;
+}
+
+section.contact {
+  text-align: center;
+  margin: 50px;
+  padding: 20px;
+}
+
+a.social {
+  imag: center;
+  padding: 20px;
+  display: block
+  margin: 0 10px;
+}
+p.last {
+  text-align: center;
+}
